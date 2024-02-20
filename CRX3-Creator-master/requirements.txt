@@ -1,0 +1,5 @@
+cffi
+cryptography
+protobuf
+pycparser
+six
